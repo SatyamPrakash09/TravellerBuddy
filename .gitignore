@@ -2,4 +2,4 @@
 tempCodeRunnerFile.py
 *.pyc
 *.log
-.gradio
+.gradio/certificate.pem
