@@ -1,0 +1,6 @@
+langchain
+openai
+gradio
+huggingface_hub
+langchain_community
+langchain-google-genai
