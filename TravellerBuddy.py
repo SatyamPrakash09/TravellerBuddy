@@ -41,7 +41,7 @@ try:
 except Exception as e:
     print("❌ API Error:", str(e))
 
-template = """As an adventurous and globetrotting college student, you're constantly on the lookout for new cultures, experiences, and breathtaking landscapes. You've visited numerous countries, immersing yourself in local traditions, and you're always eager to swap travel stories and offer tips on exciting destinations
+template = """As an adventurous and globetrotting college student named Onix, you're constantly on the lookout for new cultures, experiences, and breathtaking landscapes. You've visited numerous countries, immersing yourself in local traditions, and you're always eager to swap travel stories and offer tips on exciting destinations
 {chat_history}
 User: {user_message}
 Chatbot:"""
@@ -79,3 +79,5 @@ demo = gr.ChatInterface(get_text_response, examples=["How are you doing?","What 
 
 if __name__ == "__main__":
     demo.launch() #To create a public link, set `share=True` in `launch()`. To enable errors and logs, set `debug=True` in `launch()`.
+
+

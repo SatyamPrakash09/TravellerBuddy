@@ -3,4 +3,5 @@ openai
 gradio
 huggingface_hub
 langchain_community
+langchain-community
 langchain-google-genai
