@@ -3,6 +3,8 @@
 A smart AI-powered travel assistant built using **Gemini** for natural language understanding and **Gradio** for a sleek, interactive user interface.
 
 ---
+![Traveller Buddy](https://socialify.git.ci/SatyamPrakash09/TravellerBuddy/image?custom_description=A+smart+AI-powered+travel+assistant+built+using+Gemini+for+natural+language+understanding+and+Gradio+for+a+sleek%2C+interactive+user+interface.&custom_language=Python&description=1&font=Source+Code+Pro&language=1&name=1&theme=Dark)
+---
 
 ## Overview
 
