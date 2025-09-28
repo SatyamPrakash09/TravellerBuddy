@@ -75,7 +75,7 @@ def get_text_response(user_message, history):
 #     ]
 # )
 
-demo = gr.ChatInterface(get_text_response, examples=["How are you doing?","What are your interests?","Which places do you like to visit?"], type='messages')
+demo = gr.ChatInterface(get_text_response, examples=["How are you doing?","What is a code vunerability?","What happens if a code is not secure?"], type='messages')
 
 if __name__ == "__main__":
     demo.launch() #To create a public link, set `share=True` in `launch()`. To enable errors and logs, set `debug=True` in `launch()`.
